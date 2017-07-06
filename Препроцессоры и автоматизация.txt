@@ -1,0 +1,22 @@
+Подходы к архитектуре CSS-кода
+	- Начинаем писать CSS: http://frontender.info/starting-css/
+	- Организация кода для CSS-препроцессоров: http://frontender.info/organizing-your-css-code-for-preprocessors/
+	- Примеси быстрее расширений, доказывает Гарри Робертс: http://csswizardry.com/2016/02/mixins-better-for-performance/
+	
+CSS-препроцессор LESS
+	- Возможности препроцессора LESS: http://lesscss.org/features/
+	- Путеводитель по LESS для новичков: https://www.gitbook.com/book/mrmlnc/less-guidebook-for-beginners/details
+	
+CSS-препроцессор Sass
+	- Возможности препроцессора Sass: http://sass-lang.com/guide
+	- Руководство по написанию разумного, поддерживаемого и масштабируемого Sass: http://sass-guidelin.es/ru/
+
+CSS-препроцессор PreCSS (набор плагинов для PostCSS)
+	- Возможности препроцессора PreCSS: https://github.com/jonathantneal/precss#precss-
+	- Примеры работы с PreCSS: http://webdesign.tutsplus.com/tutorials/postcss-deep-dive-preprocessing-with-precss--cms-24583
+
+Введение в автоматизацию
+	+ Установка Node.js: https://htmlacademy.ru/blog/87-installing-nodejs
+	- Полезные команды для работы с Node.js: https://htmlacademy.ru/blog/88-useful-commands-for-working-with-nodejs
+	- Руководство по использованию Гранта для начинающих: http://frontender.info/a-beginners-guide-to-grunt-redux/
+	- Грант для тех, кто считает штуки вроде него странными и сложными: http://frontender.info/grunt-is-not-weird-and-hard/ 
