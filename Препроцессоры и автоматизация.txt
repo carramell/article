@@ -1,5 +1,5 @@
 Подходы к архитектуре CSS-кода
-	- Начинаем писать CSS: http://frontender.info/starting-css/
+	+ Начинаем писать CSS: http://frontender.info/starting-css/
 	- Организация кода для CSS-препроцессоров: http://frontender.info/organizing-your-css-code-for-preprocessors/
 	- Примеси быстрее расширений, доказывает Гарри Робертс: http://csswizardry.com/2016/02/mixins-better-for-performance/
 	
