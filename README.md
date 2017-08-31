@@ -1,4 +1,4 @@
-# article
+[Markdown syntax](http://rukeba.com/by-the-way/markdown-sintaksis-po-russki/)
 
 ## Frontend
 1. [Flexbox](https://github.com/carramell/article/blob/master/Flexbox.txt)
