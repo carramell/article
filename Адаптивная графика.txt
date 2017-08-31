@@ -1,0 +1,15 @@
+Адаптивная графика
+	- Выбираем решение для изображений в отзывчивом дизайне: http://frontender.info/choosing-a-responsive-image-solution/
+	- Почему мы не можем делать по-настоящему адаптивные изображения при помощи CSS или JavaScript: http://css-live.ru/articles/pochemu-my-ne-mozhem-delat-po-nastoyashhemu-adaptivnye-izobrazheniya-pri-pomoshhi-css-ili-javascript.html
+	- Отзывчивые изображения: примеры использования и документированные снипеты, чтобы вы могли начать их использовать: http://frontender.info/responsive-images/
+	- Automatically art-directed responsive images: http://cloudinary.com/blog/automatically_art_directed_responsive_images
+	- Сколько нужно верстальщиков, чтобы вставить <picture> — видео, презентация: https://www.youtube.com/watch?v=Szo-2D7TtEU and http://pepelsbey.net/pres/picture/
+	- Responsive Images — видео, презентация: http://www.awwwards.com/awwwards-conference-2015-bruce-lawson-from-opera-on-responsive-images.html and http://brucelawson.github.io/talks/2015/awwwards/
+	- Полифил для <picture> — picturefill: http://scottjehl.github.io/picturefill/
+
+Векторная графика
+	- SVG в вебе: практическое руководство: https://svgontheweb.com/ru/
+	- Ещё один доклад про SVG — видео, презентация: https://www.youtube.com/watch?v=aVlhxKkn5OE and http://ask.dev.cpeople.ru/pres/svg/
+	- Демонстрация адаптивного SVG-логотипа: http://tympanus.net/Tutorials/ResponsiveSVGs/index6.html
+	- Tips for creating and exporting better SVGs for the web: https://sarasoueidan.com/blog/svg-tips-for-designers/
+	- Art-Directing SVG Images With The viewBox Attribute: https://sarasoueidan.com/blog/svg-art-direction-using-viewbox/

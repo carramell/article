@@ -1,0 +1,17 @@
+﻿Полезные материалы по работе с консолью
+	- Как сделать красивую консоль в OS X и Linux: https://htmlacademy.ru/blog/47-how-to-make-a-beautiful-console-for-mac-and-linux
+	- Искусство командной строки: https://github.com/jlevy/the-art-of-command-line/blob/master/README-ru.md
+	
+Полезные материалы по работе с Git
+	- Глоссарий терминов для Git и GitHub: https://htmlacademy.ru/blog/81-git-and-github-glossary
+	- Настольная книга о работе с Git: http://git-scm.com/book/ru/v2
+	- Интерактивный тур, который познакомит вас с основами: http://githowto.com/ru
+	- Полезные команды для работы с Git: https://htmlacademy.ru/blog/86-useful-commands-for-working-with-git
+	- Шпаргалка по консольным командам Git: https://github.com/nicothin/web-development/blob/master/git/readme.md
+	- Как склеить коммиты и зачем это нужно: https://htmlacademy.ru/blog/27-how-to-squash-commits-and-why-it-is-needed
+	- Как оформлять коммиты, чтобы потом не было больно: https://habrahabr.ru/company/Voximplant/blog/276695/
+	- Коллекция часто задаваемых вопросов: http://firstaidgit.ru/
+
+Полезные материалы по работе с Node.js
+	- Установка Node.js: https://htmlacademy.ru/blog/87-installing-nodejs
+	- Полезные команды для работы с Node.js: https://htmlacademy.ru/blog/88-useful-commands-for-working-with-nodejs

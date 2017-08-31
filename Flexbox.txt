@@ -1,0 +1,15 @@
+Обзор флексбоксов
+	+ Полное руководство по флексбоксам: http://frontender.info/a-guide-to-flexbox/
+	+ Флексбокс, теперь понятно — видео, презентация: https://vimeo.com/67011034 and http://pepelsbey.net/pres/flexbox-gotcha/
+	+ Solved by flexbox: http://philipwalton.github.io/solved-by-flexbox
+	- Harnessing flexbox for today’s web apps: http://www.smashingmagazine.com/2015/03/02/harnessing-flexbox-for-todays-web-apps/
+	- Flexbox playground: http://codepen.io/enxaneta/full/adLPwv/
+	
+Игры, помогающие понять флексбоксы
+	- Flexbox defense: http://www.flexboxdefense.com/
+	- Flexbox froggy: http://flexboxfroggy.com/
+	- Flexbox in 5 minutes: http://flexboxin5.com/
+
+Единицы vh и vw
+	- Make full screen sections with 1 line of CSS: https://medium.com/@ckor/make-full-screen-sections-with-1-line-of-css-b82227c75cbd
+	- Демонстрация: http://codepen.io/ckor/full/cf2134280cd25e8ac7e57f1b05bb0b49/
