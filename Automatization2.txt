@@ -1,6 +1,7 @@
 Ещё немного об автоматизации
 	- Пакуем как боги: http://frontender.info/packing-the-web-like-a-boss/
 	- Мастер-класс Роберта Харитонова «Автоматизация для фронтендеров»: https://www.youtube.com/watch?v=y9ERi0PhHEo
+	- SVG вставка https://habrahabr.ru/post/230443/
 	
 Что ещё нужно фронтендеру?
 	- Подкаст «Веб-стандарты» с новостями из мира фронтенда: https://soundcloud.com/web-standards
