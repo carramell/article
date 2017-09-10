@@ -1,0 +1,28 @@
+Рендеринг страницы
+	- История одной оптимизации: http://chikuyonok.ru/2010/11/optimization-story/
+	- Front-end performance for web designers and front-end developers: http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/
+	- Google Developers: оптимизация: https://developers.google.com/web/fundamentals/performance/?hl=ru
+	- Анализ скорости загрузки сайта: от пользовательских проблем к их решению: http://www.searchengines.ru/analiz_skorosti.html
+	- Introducing RAIL: a user-centric model for performance: https://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/
+	- Gone in 60 frames per second: a pinterest paint performance case study: https://www.smashingmagazine.com/2013/06/pinterest-paint-performance-case-study/
+	- The anatomy of a frame: https://aerotwist.com/blog/the-anatomy-of-a-frame
+	- Что влияет на перерисовку и перерасчет: https://gist.github.com/paulirish/5d52fb081b3570c81e3a
+	- Используйте свойства, вызывающие только компоновку, и контролируйте количество слоёв: https://developers.google.com/web/fundamentals/performance/rendering/stick-to-compositor-only-properties-and-manage-layer-count?hl=ru
+
+CSS
+	- Написание эффективного CSS: https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Writing_efficient_CSS
+	- CSS performance revisited: selectors, bloat and expensive styles: https://benfrain.com/css-performance-revisited-selectors-bloat-expensive-styles/
+	- CSS triggers: https://csstriggers.com/
+	
+Веб-шрифты
+	- Паттерны загрузки веб-шрифтов: http://web-standards.ru/articles/web-font-loading-patterns/
+	
+SVG
+	- Оптимизация SVG: часть 1 и часть 2: https://medium.com/larsenwork-andreas-larsen/optimising-svgs-for-web-use-part-1-67e8f2d4035 and https://medium.com/larsenwork-andreas-larsen/optimising-svgs-for-web-use-part-2-6711cc15df46
+	- Обзор техник создания SVG-спрайтов: https://24ways.org/2014/an-overview-of-svg-sprite-creation-techniques/
+	
+Анимация
+	- Анимация и производительность: https://developers.google.com/web/fundamentals/design-and-ui/animations/animations-and-performance?hl=ru
+	- High performance animations: http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/
+	- A tale of animation performance: https://css-tricks.com/tale-of-animation-performance/
+	- CSS animations and transitions performance: looking inside the browser: http://blogs.adobe.com/webplatform/2014/03/18/css-animations-and-transitions-performance/
