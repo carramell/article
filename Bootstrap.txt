@@ -1,0 +1,25 @@
+Темы оформления:
+	1. https://startbootstrap.com/
+	2. https://wrapbootstrap.com/
+	3. http://blacktie.co/
+
+Генератор тем:
+	1. http://bootswatchr.com/create
+	2. http://www.layoutit.com/
+	3. http://pikock.github.io/bootstrap-magic/app/index.html#!/editor
+
+Дополнения:
+	1. https://github.com/jasny/bootstrap
+	2. http://www.bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources
+
+Шаблонные демонстрации:
+	1. http://getbootstrap.com/getting-started/#examples
+
+Галерея сайтов:
+	1. http://expo.getbootstrap.com/
+
+Курсы: 
+	1. w3schools
+
+Статьи: 
+	1. https://hexletguides.github.io/bootstrap/
