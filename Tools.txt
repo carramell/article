@@ -1,0 +1,17 @@
+Фреймворки
+	- Bootstrap: http://getbootstrap.com/
+	- Foundation: http://foundation.zurb.com/
+	- Semantic-UI: http://semantic-ui.com/
+	- Skeleton: http://getskeleton.com/
+	- UIkit: http://getuikit.com/
+	- Сравнение фреймворков: http://usablica.github.io/front-end-frameworks/compare.html
+	
+Тестирование
+	- Презентация «Тестирование: гайд от "чайников"»: http://slides.com/elizaveta_s/deck#/
+	- Emmet Re:view 2 — расширение Chrome для тестирования адаптивных сайтов: http://re-view.emmet.io/
+	- Тестирование вёрстки на визуальные регрессии с помощью PhantomCSS: https://habrahabr.ru/post/271379/
+	
+Горячие клавиши редакторов кода
+	- Atom: https://github.com/nwinkler/atom-keyboard-shortcuts
+	- Brackets: https://github.com/adobe/brackets/wiki/Brackets-Shortcuts
+	- Sublime Text: http://nicothin.github.io/sublime-text/sublime-text-3-hotkeys.html
